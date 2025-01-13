@@ -93,3 +93,7 @@ h3 {
 .stack-logos > svg {
     height: 40px;
 }
+
+.main-footer {
+    text-align: center;
+}
