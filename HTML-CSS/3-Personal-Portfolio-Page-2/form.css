@@ -1,0 +1,46 @@
+.form-group {
+    margin: 20px 0;
+}
+
+label,
+input:not([type="radio"], [type="checkbox"]) {
+    width: 100%;
+    margin-top: 8px;
+}
+
+textarea {
+    width: 100%;
+    resize: vertical;
+}
+
+label,
+input:not([type="radio"], [type="checkbox"]) {
+    vertical-align: middle;
+}
+
+label,
+legend {
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    border: 1px solid #6d6d6d;
+    border-radius: 4px;
+    padding: 8px 12px;
+    color: #5d5d5d;
+}
+fieldset {
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+.title {
+    display: flex;
+}
+
+.buttom {
+    width: 50%;
+}
